@@ -158,4 +158,4 @@ You can register a new customer via the "Customer Login" page or use seeded data
 ## 📄 License
 This project is created for educational purposes.
 
-© 2022 Artify Hub. All rights reserved.
+© 2026 Artify Hub. All rights reserved.
